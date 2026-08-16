@@ -1,0 +1,16 @@
+===========================
+Welcome to the tennis match.
+The score is love all.
+Please enter which player wins the first point? 1 or 2:
+The score is love-15.
+Please enter which player wins the next point? 1 or 2:
+The score is 15 all.
+Please enter which player wins the next point? 1 or 2:
+The score is 15-30.
+Please enter which player wins the next point? 1 or 2:
+The score is 15-40.
+Please enter which player wins the next point? 1 or 2:
+The score is 30-40.
+Please enter which player wins the next point? 1 or 2:
+Player 2 wins the game.
+===========================

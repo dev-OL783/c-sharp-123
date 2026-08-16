@@ -1,0 +1,23 @@
+===========================
+Welcome to the tennis match.
+The score is love all.
+Please enter which player wins the first point? 1 or 2:
+The score is love-15.
+Please enter which player wins the next point? 1 or 2:
+The score is love-30.
+Please enter which player wins the next point? 1 or 2:
+The score is love-40.
+Please enter which player wins the next point? 1 or 2:
+The score is 15-40.
+Please enter which player wins the next point? 1 or 2:
+The score is 30-40.
+Please enter which player wins the next point? 1 or 2:
+The score is deuce.
+Please enter which player wins the next point? 1 or 2:
+Player 2 has the advantage.
+Please enter which player wins the next point? 1 or 2:
+Error - Incorrect player number entered.
+Player 2 has the advantage.
+Please enter which player wins the next point? 1 or 2:
+Player 2 wins the game.
+===========================

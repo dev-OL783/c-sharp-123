@@ -1,0 +1,8 @@
+===========================
+Welcome to Baker's Dozen Bakery.
+Please enter the number of days that you have been baking:
+Please enter the number of rolls baked for day 1:
+Please enter the number of rolls baked for day 2:
+Please enter the number of rolls baked for day 3:
+You have baked 3 rolls in total, which is equal to 0 baker's dozen and 3 rolls left over.
+===========================

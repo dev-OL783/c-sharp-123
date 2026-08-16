@@ -1,0 +1,30 @@
+===========================
+Welcome to Connect Five.
+Player 1 is Red (R).
+Player 2 is Yellow (Y).
+OOOOO
+OOOOO
+OOOOO
+OOOOO
+OOOOO
+Player 1, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOOOO
+OOOOO
+OOOOO
+ROOOO
+Player 2, please enter a column number (1-5) or 0 to exit:
+Error - Invalid type entered. Please retry.
+Player 2, please enter a column number (1-5) or 0 to exit:
+Error - Invalid type entered. Please retry.
+Player 2, please enter a column number (1-5) or 0 to exit:
+Error - Invalid type entered. Please retry.
+Player 2, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOOOO
+OOOOO
+YOOOO
+ROOOO
+Player 1, please enter a column number (1-5) or 0 to exit:
+You have exited the game without a winner.
+===========================

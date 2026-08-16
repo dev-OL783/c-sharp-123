@@ -1,0 +1,101 @@
+===========================
+Welcome to Connect Five.
+Player 1 is Red (R).
+Player 2 is Yellow (Y).
+OOOOO
+OOOOO
+OOOOO
+OOOOO
+OOOOO
+Player 1, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOOOO
+OOOOO
+OOOOO
+ROOOO
+Player 2, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOOOO
+OOOOO
+OOOOO
+RYOOO
+Player 1, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOOOO
+OOOOO
+OROOO
+RYOOO
+Player 2, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOOOO
+OOOOO
+OROOO
+RYYOO
+Player 1, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOOOO
+OOOOO
+ORROO
+RYYOO
+Player 2, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOOOO
+OOOOO
+ORROO
+RYYYO
+Player 1, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOOOO
+OOROO
+ORROO
+RYYYO
+Player 2, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOOOO
+OOROO
+ORRYO
+RYYYO
+Player 1, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOOOO
+OORRO
+ORRYO
+RYYYO
+Player 2, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOOOO
+OORRO
+ORRYO
+RYYYY
+Player 1, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOORO
+OORRO
+ORRYO
+RYYYY
+Player 2, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOORO
+OORRO
+ORRYY
+RYYYY
+Player 1, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOORO
+OORRR
+ORRYY
+RYYYY
+Player 2, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOORY
+OORRR
+ORRYY
+RYYYY
+Player 1, please enter a column number (1-5) or 0 to exit:
+OOOOR
+OOORY
+OORRR
+ORRYY
+RYYYY
+Connect Five! Congratulations, Player 1 wins!
+===========================

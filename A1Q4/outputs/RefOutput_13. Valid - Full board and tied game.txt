@@ -1,0 +1,161 @@
+===========================
+Welcome to Connect Five.
+Player 1 is Red (R).
+Player 2 is Yellow (Y).
+OOOOO
+OOOOO
+OOOOO
+OOOOO
+OOOOO
+Player 1, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOOOO
+OOOOO
+OOOOO
+ROOOO
+Player 2, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOOOO
+OOOOO
+OOOOO
+RYOOO
+Player 1, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOOOO
+OOOOO
+OOOOO
+RYROO
+Player 2, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOOOO
+OOOOO
+OOOOO
+RYRYO
+Player 1, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOOOO
+OOOOO
+OOOOO
+RYRYR
+Player 2, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOOOO
+OOOOO
+OYOOO
+RYRYR
+Player 1, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOOOO
+OOOOO
+OYROO
+RYRYR
+Player 2, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOOOO
+OOOOO
+OYRYO
+RYRYR
+Player 1, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOOOO
+OOOOO
+OYRYR
+RYRYR
+Player 2, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOOOO
+OOOOO
+YYRYR
+RYRYR
+Player 1, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOOOO
+ROOOO
+YYRYR
+RYRYR
+Player 2, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOOOO
+ROOOY
+YYRYR
+RYRYR
+Player 1, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OOOOO
+RROOY
+YYRYR
+RYRYR
+Player 2, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OYOOO
+RROOY
+YYRYR
+RYRYR
+Player 1, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OYOOO
+RRROY
+YYRYR
+RYRYR
+Player 2, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OYYOO
+RRROY
+YYRYR
+RYRYR
+Player 1, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OYYOO
+RRRRY
+YYRYR
+RYRYR
+Player 2, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OYYYO
+RRRRY
+YYRYR
+RYRYR
+Player 1, please enter a column number (1-5) or 0 to exit:
+OOOOO
+OYYYR
+RRRRY
+YYRYR
+RYRYR
+Player 2, please enter a column number (1-5) or 0 to exit:
+OOOOO
+YYYYR
+RRRRY
+YYRYR
+RYRYR
+Player 1, please enter a column number (1-5) or 0 to exit:
+OOROO
+YYYYR
+RRRRY
+YYRYR
+RYRYR
+Player 2, please enter a column number (1-5) or 0 to exit:
+OOROY
+YYYYR
+RRRRY
+YYRYR
+RYRYR
+Player 1, please enter a column number (1-5) or 0 to exit:
+OORRY
+YYYYR
+RRRRY
+YYRYR
+RYRYR
+Player 2, please enter a column number (1-5) or 0 to exit:
+YORRY
+YYYYR
+RRRRY
+YYRYR
+RYRYR
+Player 1, please enter a column number (1-5) or 0 to exit:
+YRRRY
+YYYYR
+RRRRY
+YYRYR
+RYRYR
+The board is completely filled with discs. The result is a tie.
+===========================

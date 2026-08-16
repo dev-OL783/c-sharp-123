@@ -1,4 +1,0 @@
-===========================
-Please enter the over scorecard:
-The maximum number of balls in an over is 6.
-===========================

@@ -1,7 +1,0 @@
-===========================
-Please enter the over scorecard:
-Error - Ball 2 is invalid and will be ignored.
-Error - Ball 3 is invalid and will be ignored.
-Error - Ball 5 is invalid and will be ignored.
-The result of the over is 1 wicket for 5 runs.
-===========================

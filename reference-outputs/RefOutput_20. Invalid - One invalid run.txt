@@ -1,5 +1,0 @@
-===========================
-Please enter the over scorecard:
-Error - Ball 3 is invalid and will be ignored.
-The result of the over is 0 wickets for 18 runs.
-===========================
